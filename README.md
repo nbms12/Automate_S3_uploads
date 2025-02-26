@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e573427e-b5cc-44d9-8eb4-65bcea45df0f)# Automate_S3_uploads
+# Automate_S3_uploads
 
 Aim of project : Automating uploading source codes of project into s3 bucket using github actions 
 
@@ -13,5 +13,7 @@ Aim of project : Automating uploading source codes of project into s3 bucket usi
 3) github actions  starts automating series of steps
 
 
+4) files uploaded automatically in s3 bucket in every successfull build
 
-   
+   ![image](https://github.com/user-attachments/assets/70d900ab-6826-49f3-9b81-f8926f63c70b)
+
