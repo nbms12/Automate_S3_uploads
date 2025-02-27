@@ -1,6 +1,6 @@
 # Automate_S3_uploads
 
-Aim of project : Automating uploading source codes of project into s3 bucket using github actions 
+Aim of project : Automating uploading  of project/application source codes into s3 bucket using github actions 
 
 1) update source code in repo
 
